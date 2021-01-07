@@ -79,15 +79,29 @@ public int DOB()
 return DOB;
 }
 
-// adds a customer
-
-public void addCustomer()
+// open an account
+public void openAccount()
 {
 
 
 }
-// subtracts a customer
-public void delCustomer()
+  
+// deposit into an account 
+public void deposit(String Account, double amount)
+{
+
+
+}
+  
+// withdraw from an account 
+public void withdrawal(String Account, double amount)
+{
+
+
+}
+  
+// close an account
+public void closeAccout()
 {
 
 
